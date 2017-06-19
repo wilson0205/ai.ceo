@@ -36,4 +36,4 @@ Soul Machines, a eerily named startup based in New Zealand, is creating chatbots
 
 These are some of the trends that are transforming the ways businesses interact with their customers. AI-powered customer support and management will surely result in more satisfied and less frustrated customers, and more productive sales teams. We expect to see more exciting developments in the space in the coming months.
 
-source: [TNW.com](https://thenextweb.com/contributors/2017/06/12/artificial-intelligence-revolutionizing-customer-management/)
+source: [TNW](https://thenextweb.com/contributors/2017/06/12/artificial-intelligence-revolutionizing-customer-management/)
