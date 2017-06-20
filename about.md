@@ -1,8 +1,10 @@
 ---
 title: About AI.ceo
 permalink: "/about/"
-layout: page
 tags: about
+layout: page
 ---
+
+Artificial Intelligence Blog.
 
 Copyright 2016 AI.ceo℠. All rights reserved.
